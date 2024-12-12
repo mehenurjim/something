@@ -1,0 +1,12 @@
+@media screen and (max-width: 768px ){
+	.image.w-50{
+	
+		width: 100% !important;
+	}
+
+.right .box{
+	margin-left:17% !important;
+	width:83%!important;
+	
+}
+}

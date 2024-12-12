@@ -1,0 +1,28 @@
+.image{
+	background:url('../images/hero-bg.jpg')no-repeat center center;
+	background-size:cover;
+	border-radius: 8px;
+}
+.btn-main{
+	background: #FF5400 !important;
+}
+.bg-offwhite{
+	background: rgba(178,166,163,0.373);
+	border-radius: 8px;
+}
+.active{
+	color:#FF5400 !important;
+	font-weight:700;
+}
+.hero{
+	background:url('../images/discount.png')no-repeat center center;
+	background-size:cover;
+}
+.box{
+	background:white;
+	margin-left:60%;
+	opacity:.9;
+}
+.icons-color{
+	color:#FF5400 !important;
+}
